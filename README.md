@@ -69,20 +69,22 @@ Una vez que una solicitud  estÃ¡ lista para usarse, se puede fusionar en su rama
 
 ##  Tarea 0
 
-Luego de leer esta breve introducciÃ³n, debes contestar esta guÃ­a:
+Luego de leer esta breve introducción, debes contestar esta guía:
 
-1. Â¿CuÃ¡l es tu nombre?
+1. ¿Cuál es tu nombre?
 
-R:
+R: Nadine Contreras Pérez
 
-2. Â¿CuÃ¡l es la diferencia entre R y RStudio?
+2. ¿Cuál es la diferencia entre R y RStudio?
 
+R: R corresponde al lenguaje de programación y RStudio es el software
 
-R:
+3. ¿Con qué comando puedes **subir** los cambios del repositorio local al remoto?
 
-3. Â¿Con quÃ© comando puedes **subir** los cambios del repositorio local al remoto?
+Pull o ctrl + shift + p
 
 4. Crea un .Rproject llamado 00-tarea.Rproject
+
 
 5. En el repositorio, crea una carpeta llamada "imagenes". Dentro de esta carpeta deja una imagen de tu sociÃ³logo/a o cientista social preferido/a. Al archivo debes llamarlo "sociologo-preferido.jpg"
 
